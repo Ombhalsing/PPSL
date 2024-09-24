@@ -1,0 +1,2 @@
+#BASIC SYNTAX AND STRACTURE
+From this program we have learn basic syntax it starts with #include to add libraries means #include<iostream> is the header file this header file is an library  which help the programmer with standard input and output objects and In the next line there is using namespace std; statement, which denotes that we can use names for objects and variablesfrom standard library also have main function where the program runs.it also uses statements ending with a semicolon(;)and ends with return 0;to show the program finished successfully.
